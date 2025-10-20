@@ -210,4 +210,4 @@ For me, revisiting 2’s complement wasn’t just about technical clarity. It wa
 - Microsoft Copilot for grammar, proofreading, article flow, and concept clarification
 
  
-*Footnote: Language polished with AI assistance. All technical explanations of 2’s complement are my own..*
+*Footnote: Language polished with AI assistance. All technical explanations of 2’s complement are my own.*
