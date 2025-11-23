@@ -77,7 +77,7 @@ gcc -E demo.c -o demo.p
 
 Inside `demo.p`, you’ll see your code expanded with header files, macros, and stripped of comments. This is the “raw” version of your program that the compiler will later translate.
 
-Example output:
+Example output (showing 7 lines from an 800-line file):
 
 ```
 # 0 "demo.c"
