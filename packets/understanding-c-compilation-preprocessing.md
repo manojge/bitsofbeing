@@ -172,3 +172,12 @@ This creates `demo.m`, which lists every macro—your own plus all built-in GCC 
 ## What’s Next
 
 The next article will walk through the **compilation** and **linking** stages, showing how this expanded source is transformed into assembly and ultimately into an executable binary.
+
+## References
+
+1. Jon Erickson, *Hacking: The Art of Exploitation*, 2nd Edition, No Starch Press, 2008.  
+   - Inspiration for understanding low-level machine execution and the “under the hood” approach to programming.
+
+2. GitHub Copilot  
+   - Used to assist in refining grammar, sentence structure, and readability of this article.
+
