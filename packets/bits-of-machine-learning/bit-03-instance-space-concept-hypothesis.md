@@ -19,10 +19,10 @@ A good hypothesis is one that generalizes beyond the data we saw and works on un
 This pattern appears in history: humanity proposed many hypotheses about motion — from Archimedes to Galileo — until Newton formulated laws that generalized across most physical situations.  
 Machine learning follows the same logic: from limited observations, we search for a rule that explains as much of the instance space as possible.  
 
-(The real challenge isn’t the data we have — it’s the infinite data we don’t.”)
+"The real challenge isn’t the data we have — it’s the infinite data we don’t."
 
 *(These notes are part of my reading reflections on **The Master Algorithm** by Pedro Domingos.)*
-
+---
 
 #BitsOfMachineLearning  #BitsOgBeing
 
