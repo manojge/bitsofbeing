@@ -24,5 +24,5 @@ Machine learning follows the same logic: from limited observations, we search fo
 *(These notes are part of my reading reflections on **The Master Algorithm** by Pedro Domingos.)*
 ---
 
-#BitsOfMachineLearning  #BitsOgBeing
+#BitsOfMachineLearning  #BitsOfBeing
 
