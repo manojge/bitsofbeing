@@ -5,6 +5,8 @@ Author: George Manoj
 Date: 2026-04-24
 Tags: machine learning, instance space, concept function, hypothesis space, generalization, The Master Algorithm
 -->
+A weekly series exploring foundational ideas in machine learning — one Bit at a time.
+
 
 # Bit #03 — Instance Space, Concepts, and Hypotheses
 
